@@ -1,0 +1,5 @@
+C:\Users\ginag\Downloads\LP1SampleApps\Classes_M3\Starter\obj\Debug\net9.0\Classes_M3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginag\Downloads\LP1SampleApps\Classes_M3\Starter\obj\Debug\net9.0\Classes_M3.AssemblyInfoInputs.cache
+C:\Users\ginag\Downloads\LP1SampleApps\Classes_M3\Starter\obj\Debug\net9.0\Classes_M3.AssemblyInfo.cs
+C:\Users\ginag\Downloads\LP1SampleApps\Classes_M3\Starter\obj\Debug\net9.0\Classes_M3.csproj.CoreCompileInputs.cache
+C:\Users\ginag\Downloads\LP1SampleApps\Classes_M3\Starter\obj\Debug\net9.0\Classes_M3.sourcelink.json
