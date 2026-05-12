@@ -12,3 +12,4 @@ c:\Users\ginag\Downloads\LP1SampleApps\Classes_M2\Starter\obj\Debug\net9.0\refin
 c:\Users\ginag\Downloads\LP1SampleApps\Classes_M2\Starter\obj\Debug\net9.0\Classes_M2.pdb
 c:\Users\ginag\Downloads\LP1SampleApps\Classes_M2\Starter\obj\Debug\net9.0\Classes_M2.genruntimeconfig.cache
 c:\Users\ginag\Downloads\LP1SampleApps\Classes_M2\Starter\obj\Debug\net9.0\ref\Classes_M2.dll
+c:\Users\ginag\Downloads\LP1SampleApps\Classes_M2\Starter\obj\Debug\net9.0\Classes_M2.sourcelink.json

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ginag\\Downloads\\LP1SampleApps\\Classes_M2\\Solution\\Classes_M2.csproj": {}
+    "C:\\Users\\ginag\\Downloads\\LP1SampleApps\\Classes_M2\\Solution\\Classes_M2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ginag\\Downloads\\LP1SampleApps\\Classes_M2\\Solution\\Classes_M2.csproj": {
+    "C:\\Users\\ginag\\Downloads\\LP1SampleApps\\Classes_M2\\Solution\\Classes_M2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ginag\\Downloads\\LP1SampleApps\\Classes_M2\\Solution\\Classes_M2.csproj",
+        "projectUniqueName": "C:\\Users\\ginag\\Downloads\\LP1SampleApps\\Classes_M2\\Solution\\Classes_M2.csproj",
         "projectName": "Classes_M2",
-        "projectPath": "c:\\Users\\ginag\\Downloads\\LP1SampleApps\\Classes_M2\\Solution\\Classes_M2.csproj",
+        "projectPath": "C:\\Users\\ginag\\Downloads\\LP1SampleApps\\Classes_M2\\Solution\\Classes_M2.csproj",
         "packagesPath": "C:\\Users\\ginag\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ginag\\Downloads\\LP1SampleApps\\Classes_M2\\Solution\\obj\\",
+        "outputPath": "C:\\Users\\ginag\\Downloads\\LP1SampleApps\\Classes_M2\\Solution\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ginag\\AppData\\Roaming\\NuGet\\NuGet.Config"

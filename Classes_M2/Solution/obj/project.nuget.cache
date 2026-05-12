@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mCmhc6lBSt4=",
+  "dgSpecHash": "+JRfSDpvYlU=",
   "success": true,
-  "projectFilePath": "c:\\Users\\ginag\\Downloads\\LP1SampleApps\\Classes_M2\\Solution\\Classes_M2.csproj",
+  "projectFilePath": "C:\\Users\\ginag\\Downloads\\LP1SampleApps\\Classes_M2\\Solution\\Classes_M2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ginag\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.15\\microsoft.netcore.app.ref.9.0.15.nupkg.sha512",
     "C:\\Users\\ginag\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.15\\microsoft.windowsdesktop.app.ref.9.0.15.nupkg.sha512",
